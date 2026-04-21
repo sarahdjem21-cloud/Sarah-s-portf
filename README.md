@@ -11,18 +11,6 @@ This GitHub portfolio showcases my projects in Python and C, developed as part o
 - Problem solving
 - Algorithmic thinking
 
-  Projects :
-
-  Python Projects
-- Task Manager (CLI with file storage)
-- Text Analyzer
-- Password Generator
-- File Organizer
-- Mini Search Engine (basic)
-- Calendar application
-
-  C Projects
-- Calculator (basic operations)
 
   Goals :
 - Improve my programming skills
